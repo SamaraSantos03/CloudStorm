@@ -84,7 +84,7 @@ O desenvolvimento das tarefas foi realizado em iterações menores, chamadas de 
 <span id="sprints">
 
 ## 🤼 **Estrutura do projeto**
-Para melhor organização do time de desenvolvimento e controle do progresso, o grupo optou por realizar a divisão de repositórios em Back-end e Front-end, optando por disponibilizar o projeto com ambas as partes já integradas aqui, no repositório "principal". Para verificar o histórico do desenvolvimento de ambas as partes, segue abaixo o link para os repositórios divididos:<br>
+Para melhor organização do time de desenvolvimento e controle do progresso, o grupo optou por realizar a divisão de repositórios em Back-end e Front-end, optando por disponibilizar o projeto com ambas as partes já integradas aqui, no repositório "principal". Para verificar o histórico do desenvolvimento de ambas as partes, segue abaixo o link para os repositórios divididos:<br><br>
 **Para o Front-end:** [Clique aqui](https://github.com/LucsKendi/StormCloudFront) 🌝
 <br>
 **Para o Back-end :** [Clique aqui](https://github.com/jvictormo/adsapi3) 🌄
