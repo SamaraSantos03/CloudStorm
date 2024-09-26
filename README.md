@@ -83,6 +83,12 @@ O desenvolvimento das tarefas foi realizado em iterações menores, chamadas de 
 
 <span id="sprints">
 
+## 🤼 **Estrutura do projeto**
+Para melhor organização do time de desenvolvimento e controle do progresso, o grupo optou por realizar a divisão de repositórios em Back-end e Front-end, optando por disponibilizar o projeto com ambas as partes já integradas aqui, no repositório "principal". Para verificar o histórico do desenvolvimento de ambas as partes, segue abaixo o link para os repositórios divididos:<br>
+**Para o Front-end:** [Clique aqui](https://github.com/LucsKendi/StormCloudFront) 🌝
+<br>
+**Para o Back-end :** [Clique aqui](https://github.com/jvictormo/adsapi3) 🌄
+
 ## 📅Sprints 
 
 ### Sprint - 1️⃣ 🏃 [(Clique aqui)](https://github.com/SamaraSantos03/CloudStorm/tree/main/Documents/Sprints/Sprint_01):  Concluída✅
@@ -109,18 +115,20 @@ O desenvolvimento das tarefas foi realizado em iterações menores, chamadas de 
 | Perfis de usuário com diferentes permissões   |  1      | 100                | #01 | 10h | ✅  |  29/09/2024            |
 | Banco de dados escalável   | 1      | 95                | #02 | 05h | ✅ |  29/09/2024            |    
 | Interface intuitiva   |  1      | 90                | #03 | 08h | ✅  |  29/09/2024            |    
-| Criação e categorização de questionários de avaliação  | 2      | 85                | #04 | 10h | ❌  |              |    
-| Questionários funcionais e visualização de progresso   | 2      | 80                | #05 | 08h | ❌  |              |    
-| Gráficos claros para visualização de aprendizado   | 2      | 80                | #05 | 08h | ❌  |             |    
-| Responsividade da aplicação    | 2      | 80                | #05 | 08h | ❌  |              |    
-| Download do dashboard em PDF   | 4      | 75                | #06 | 05h | ❌  |              |   
-| Melhoria visual e funcional da aplicação   |  4      | 65                | #08 | 03h | ❌  |              | 
-| Documentação   |  4      | 65                | #08 | 03h | ❌  |            |    
+| Criação e categorização de questionários de avaliação  | 2      | 85                | #04 | 10h | ❌  |      20/10/2024        |    
+| Questionários funcionais e visualização de progresso   | 2      | 80                | #05 | 08h | ❌  |       20/10/2024       |    
+| Gráficos claros para visualização de aprendizado   | 2      | 80                | #05 | 08h | ❌  |      20/10/2024       |    
+| Responsividade da aplicação    | 2      | 80                | #05 | 08h | ❌  |      20/10/2024        |    
+| Download do dashboard em PDF   | 4      | 75                | #06 | 05h | ❌  |       10/11/2024       |   
+| Melhoria visual e funcional da aplicação   |  4      | 65                | #08 | 03h | ❌  |       01/12/2024       | 
+| Documentação   |  4      | 65                | #08 | 03h | ❌  |     01/12/2024       |    
 
 <br>
 <br>
 
 → [Voltar ao topo](#topo)
+
+
 
 <span id="autores">
 
