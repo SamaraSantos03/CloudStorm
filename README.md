@@ -2,8 +2,7 @@
 
 # **CloudStorm**
 <p align="center">
-      <img src=Documents/Assets/logo.jpg alt="logo da Pandora Box">
-<br>
+      <img src=Documents/Assets/logo1.png alt="logo da Pandora Box">
 <h4 align="center">
  <a href="" target="_blank"><img src="https://camo.githubusercontent.com/d4cfec9550517aa67567e29843e3880ebf50bd7eeceafcd3b82875f17c9f564e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" target="_blank"></a>   <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/-Figma-%23E4405F?style=for-the-badge&logo=Figma&logoColor=white" target="_blank"></a>  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-Visual Studio Code-%2384CE?style=for-the-badge&logo=Visual Studio Code&logoColor=white"
  </a> <a href="" target="_blank"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" target="_blank"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> <a href="" 
@@ -110,13 +109,13 @@ O desenvolvimento das tarefas foi realizado em iterações menores, chamadas de 
 | Perfis de usuário com diferentes permissões   |  1      | 100                | #01 | 10h | ✅  |  29/09/2024            |
 | Banco de dados escalável   | 1      | 95                | #02 | 05h | ✅ |  29/09/2024            |    
 | Interface intuitiva   |  1      | 90                | #03 | 08h | ✅  |  29/09/2024            |    
-| Criação e categorização de questionários de avaliação  | 2      | 85                | #04 | 10h | ❌  |  05/05/2024            |    
-| Questionários funcionais e visualização de progresso   | 2      | 80                | #05 | 08h | ❌  |  05/05/2024            |    
-| Gráficos claros para visualização de aprendizado   | 2      | 80                | #05 | 08h | ❌  |  05/05/2024            |    
-| Responsividade da aplicação    | 2      | 80                | #05 | 08h | ❌  |  05/05/2024            |    
-| Download do dashboard em PDF   | 4      | 75                | #06 | 05h | ❌  |  26/05/2024            |   
-| Melhoria visual e funcional da aplicação   |  4      | 65                | #08 | 03h | ❌  |  16/06/2024            | 
-| Documentação   |  4      | 65                | #08 | 03h | ❌  |  16/06/2024            |    
+| Criação e categorização de questionários de avaliação  | 2      | 85                | #04 | 10h | ❌  |              |    
+| Questionários funcionais e visualização de progresso   | 2      | 80                | #05 | 08h | ❌  |              |    
+| Gráficos claros para visualização de aprendizado   | 2      | 80                | #05 | 08h | ❌  |             |    
+| Responsividade da aplicação    | 2      | 80                | #05 | 08h | ❌  |              |    
+| Download do dashboard em PDF   | 4      | 75                | #06 | 05h | ❌  |              |   
+| Melhoria visual e funcional da aplicação   |  4      | 65                | #08 | 03h | ❌  |              | 
+| Documentação   |  4      | 65                | #08 | 03h | ❌  |            |    
 
 <br>
 <br>

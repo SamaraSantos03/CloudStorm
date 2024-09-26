@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 1️⃣ 🏃 - 04/09/2023 a 24/09/2023</h1>
+<h1 align="center">Sprint 1️⃣ 🏃 - Concluída 24/09/2023</h1>
 <p align="center">
     <a href="#objetivos"> - Objetivos da Sprint</a> &nbsp
     <a href="#userstory"> - User Story's</a> &nbsp
