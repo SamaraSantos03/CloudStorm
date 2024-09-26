@@ -86,7 +86,7 @@ O desenvolvimento das tarefas foi realizado em iterações menores, chamadas de 
 
 ## 📅Sprints 
 
-### Sprint - 1️⃣ 🏃 [(Clique aqui)]():  Concluída✅
+### Sprint - 1️⃣ 🏃 [(Clique aqui)](https://github.com/SamaraSantos03/CloudStorm/tree/main/Documents/Sprints/Sprint_01):  Concluída✅
 <br>
 
 ### Sprint - 2️⃣:   Em andamento
